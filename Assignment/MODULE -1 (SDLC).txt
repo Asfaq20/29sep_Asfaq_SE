@@ -1,0 +1,200 @@
+MODULE-1 (SDLC)
+ 
+1.WHAT IS SOFTWARE? 
+  WHAT IS SOFTWARE ENGINEERING?
+   
+  WHAT IS SOFTWARE?
+   > Software is also called program.
+s
+   > It is the language of computer.
+
+   > Software is a sate of instaructions, data and information.
+
+   > Software instaructions that tell a computer what to do and how to do...
+
+   > The main two categories of software are APPLICATION SOFTWARE And SYSTEM
+     SOFTWARE.
+
+   > Other types of software is PROGRAMING SOFTWARE.
+    
+  WHAT IS SOFTWARE ENGINEERING?
+   > SOFTWARE: It's a set of instruction.
+
+   > ENGINEERIN: Process of desining and building something that make sure 
+     practicular purpose.
+
+   > SOFTWARE ENGINEERIN: It's a process of analyzing user requirement and then 
+     designing, building and tasting software application wich will satisfy those 
+     requirements.
+
+   > The most populer types of software engineering are FROM-AND-ENGINEER, BACK-AND 
+     ENGINEER, FULL STACK ENGINEER, SOFTWARE ENGINEER IN TEST (Qa engineer),
+     SECURITY ENGINEER.  
+
+
+
+2.EXPLAIN TYPES OF SOFTWARE? 
+  TYPES OF SOFTWARE?
+   > SYSTEM SOFTWARE:or OS APPLICATION SOFTWARE PROGRAMMING SOFTWARE.
+
+   > SYSTEM SOFTWARE:System software is a sat of programs that handles all the basic internal working of a computer.
+
+   > It executes and controls all the working of different peripheral device.
+
+   > It helps to run the computer hardware and system.
+     EXAMAPLE: Linux, windows, macOS, ANDROID, IOS...
+    
+   APPLICATION SOFTWARE:
+   > Application software is also known as end user software or productivity software.
+
+   > Application software is the general designation of computer programs for performing user tasks. It si a types 
+     of computer program that performs specific function.
+
+   > These functions can be Personal, Business as well as Educational.
+    
+   TYPES OF APPLICATION SOFTWARE: 
+   > MOBILE 
+   > DESKTOP APP
+   > WEB APP
+
+   MOBILE:-
+   > Application that run in mobile. 
+     EXAMPLE: Instagram, facebook, etc.
+
+   DESKTOP:-
+   > Application that run only on desktop or laptop computer.
+     EXAMPLE: Word, exale, powerpoint, outlook, firefox, etc.
+    
+   WEB APP:-
+   > Application that run on web browser.
+     EXAMPLE: facebook, com, google. com, etc.
+  
+   PROGRAMING SOFTWARE:
+   > Programing software is a software which helps the programmer in devloping other software. 
+
+   > It is the process of desining, writing, testing, debugging and maintaining the source code of computer programs.
+
+   > Programin software is also known as programming tool or software development tool.
+
+
+   > In short, PS is a program or set of program which helps the software devlopers by assisting them in creating,
+     debugging and applications.
+     EXAMPLE: C++, java, python, simlab, php, etc.
+
+
+
+3.WHAT IS SDLC?EXPALIN EACH PHASE OF SDLC.
+  
+   > SDLC:SOFTWARE DEVELOPMENT LIFE CYCLE.
+     The software development life cycle is a structured process that enables the production of high quality,
+     low-cost software in the shortest possible production time.
+
+   > The goal of the SDLC is to produce higher-level software that meets all customer expectations and demands.
+
+   > SDLC provides a well structured flow of phases that help an organization to quickly produce high quality
+     software which is well tested and ready for production use.
+
+   > The SDLC involves six phases of Software Dvelopment.
+
+
+   1 Requirements gathering
+   2 Analysis
+   3 Design
+   4 Implemantation
+   5 Testing
+   6 Maintenance
+ 
+  1 REQUIREMENTS GATHERING:
+
+   > During this phase, all the relevant information is collected from the customer to develop a product as per 
+     their expectation.
+
+   > Business analyst and project manager set up anmeeting with the customer to gather all the information like
+     what the customer wants to build, what is the purpose of the product.
+
+   > Before build a product, knowladge about the product is very important.
+   
+  2 ANALYSIS:
+
+   > This phase defines the problem that the customer is trying to solve.
+
+
+   > The analysis phase defines the requirements of the system.
+
+   > The deliverable result at the end of this phase is a requirement document 
+   
+  3 DESIGN:
+   
+   > The design phase is important precursor to the main developer stage.
+
+   > In this phase, the requirement gathered is used as an input.
+
+   > The system and software design documents are prepared as per the requirement specification ducument.
+
+   > This design phase serves as input for the next phase of the model.
+   
+   Two kinds of design phase:
+   High-level design (HLD)
+   Low-level design (LLD)  
+
+
+
+4. WHAT IS DFD?CREATE A DFD DIAGRAM ON FLIPKART.                       
+  
+   DFD: DATA FLOW DIAGRAM
+   > A data flow diagram is a traditional way to visualize the information flows within a system. It shows how 
+     information enters and leaves the system, what changes the information and where information is stored.
+
+   > The purpose of a DFD is to show the scope and boundaries of a system. it may be used as a communiction tool
+     between a system analyst and any person who plays a part in the system that acts as the starting point for 
+     redesigning a system.
+
+   > It's easy to undrstand the flow of data through system with the right Data flow diagram software. This guide 
+     provides everything you need to know about data flow diagrams, including definitions, history, and symbols.
+
+   > it uses defined symbols like rectangles, circles and arrows. DFD does not have control flow and no loops 
+     or decision rules are present. data flow diagrams are very populer because they help us to visualize the major 
+     steps and data involved in software-system processes. Data flow diagrams can be divided into logical and physical.
+
+
+
+5. WHAT IS FLOW CHART? CREATE A FLOWCHART TO MAKE ADDITION TWO NUMBERS.
+   
+   > A diagram of the sequence of movements or actions of people or things involved in a activity.
+
+   > A flow chart is a graphical or symbolic representation of a process. Each step in the process 
+     is presented by a different symbol and contains a short description of the process step. The 
+     flow chart symbols are linked together with arrows showing the process flow direction.
+
+   > A flowchart is a picture of the separate steps of a process in sequential order.
+ 
+ TYPES OF FLOW CHART: 
+   > Data flow diagram (DFD)
+
+   > Process flow diagram (PFD)
+
+   > Business process model and notation (BPMN)
+
+   > Specification and description language flowchart (SDL)
+
+ PROGRAMS CAN BE IN THREE FORMAT: 
+   1.Linear or sequential structure
+   2.Branching or decision making structure
+   3.Looping stracture
+
+
+
+6. WHAT IS USE CASE DIAGRAM? 
+   CTEATE A USE-CASE ON BILL PAYMENT ON PAYTM.
+  
+   > Use-case diagram describe the high-level functions and scope of a system.
+
+   > These diagram also identify the interactions between the system and it's actors.
+
+   > The use cases and actors in use case diagram describe what the system dose and how the actors use it, but not 
+     how the system operates internally.
+
+   > Use-case diagram illustrate and define the requirements of either an entire system or the important parts of
+     the system.
+
+
