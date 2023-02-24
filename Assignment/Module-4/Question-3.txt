@@ -1,0 +1,22 @@
+(3).What is diffrence between OOP and POP?
+
+            OOP                     |              POP
+   ------------------------------------------------------------------
+-> It is a bottom-up                |-> It is a top to approach. 
+      approach.                     | 
+                                    |-> It concentrated on functions.
+-> It concentrated on data          | 
+      rather than functions.        |-> In POP data uses globally.  
+                                    |
+-> Data is used by a                |-> Due to globle data, It is less
+      associated function           |   secure language.
+      within the class.             |
+                                    |-> Example: 
+-> It is more secured language      |            C,BASIC COBOL,FORTRAN.
+      because external function     |
+      can't access another data.    | 
+                                    |
+-> Example:                         |
+            C++,JAVA,VISUAL,BASIC   |
+            PYTHON,PHP.             |
+                                    |

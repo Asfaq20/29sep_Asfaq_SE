@@ -1,0 +1,14 @@
+(2).What is OOP? List OOP concept?
+ 
+   -> OOP->Object-Oriented Programming.
+   -> Procedural programming is about writing procedures or functions 
+      that perform operations on the data,while object-oriented programming 
+      is about creating objects that contain both data and functions.   
+
+      OOP Concept:-
+          1) Class
+          2) Object             
+          3) Inheritance
+          4) Encapsulation  
+          5) Absraction
+          6) Polymorphism
